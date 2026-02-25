@@ -1,0 +1,5 @@
+{
+  "name": "Full-Stack Task Manager",
+  "description": "A robust task management application with a persistent SQLite backend and a modern React frontend.",
+  "requestFramePermissions": []
+}
